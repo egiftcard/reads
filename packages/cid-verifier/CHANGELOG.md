@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/web3-storage/reads/compare/cid-verifier-v1.2.0...cid-verifier-v1.2.1) (2023-06-12)
+
+
+### Bug Fixes
+
+* uniform response for malicious content ([#110](https://github.com/web3-storage/reads/issues/110)) ([762982a](https://github.com/web3-storage/reads/commit/762982a4b8539eaf0a102589e626412fff62b6b0))
+
 ## [1.2.0](https://github.com/web3-storage/reads/compare/cid-verifier-v1.1.0...cid-verifier-v1.2.0) (2022-12-20)
 
 
