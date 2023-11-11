@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.2.0](https://github.com/web3-storage/reads/compare/denylist-v1.1.0...denylist-v1.2.0) (2023-11-11)
+
+
+### Features
+
+* add batch denylist check ([#166](https://github.com/web3-storage/reads/issues/166)) ([407aecb](https://github.com/web3-storage/reads/commit/407aecb427ffc3717966066c9e9f7892c420fea2))
+* batch endpoint check items in parallel ([#170](https://github.com/web3-storage/reads/issues/170)) ([de42cf7](https://github.com/web3-storage/reads/commit/de42cf7681f8f3996c7a39ff1ec7188a1a833dde))
+* denylist update remote command and workflow ([#171](https://github.com/web3-storage/reads/issues/171)) ([c4e490a](https://github.com/web3-storage/reads/commit/c4e490a2393ebfadcbbaa63a1f05cba298fda97d))
+
+
+### Bug Fixes
+
+* denylist with empty row in file ([#175](https://github.com/web3-storage/reads/issues/175)) ([ae464e5](https://github.com/web3-storage/reads/commit/ae464e56dac6ce0be0b122fbcbe0c9096115bacb))
+* rename delete to del ([#172](https://github.com/web3-storage/reads/issues/172)) ([c27ebb0](https://github.com/web3-storage/reads/commit/c27ebb086d55f3eb1d749ed2b7170ee5d2abeca3))
+
 ## [1.1.0](https://github.com/web3-storage/reads/compare/denylist-v1.0.1...denylist-v1.1.0) (2023-06-12)
 
 
